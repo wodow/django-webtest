@@ -2,8 +2,8 @@
 django-webtest
 ==============
 
-.. image:: https://travis-ci.org/kmike/django-webtest.png?branch=master
-    :target: https://travis-ci.org/kmike/django-webtest
+.. image:: https://travis-ci.org/wodow/django-webtest.png?branch=master
+    :target: https://travis-ci.org/wodow/django-webtest
 
 django-webtest is an app for instant integration of Ian Bicking's
 WebTest (http://webtest.pythonpaste.org/) with django's
